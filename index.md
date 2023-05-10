@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Passionate Software Engineer, an expert in AWS Infrastructure, CI/CD and Full stack in Laravel.
 
-Maybe say a some things about yourself.
+I'm going to share some articles here about tech in my free time.
 
-Or maybe what you plan to blog about.
+It could be about AWS, Laravel, Databases or other tech in general.
